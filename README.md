@@ -1,6 +1,5 @@
----
-```markdown
-# 💼 Prashant Jaybhaye – Portfolio 2.0
+
+# Prashant – Portfolio 2.0
 
 Welcome to my personal developer portfolio – an interactive, 3D-powered website that showcases my technical skills, professional journey, and creative projects. Built with **React**, **Three.js**, and **Vite**, this is a revamped version of my portfolio, featuring immersive 3D models and clean, modern UI/UX.
 
